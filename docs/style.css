@@ -1,0 +1,13 @@
+/* used because just using html can be repetive 
+if you want things to have the same format */
+body{
+    background-color: chocolate;
+}
+/* Home Page headers */
+h1{
+    color: yellowgreen;
+}
+.introduction h1{
+    color: aliceblue;
+    font-style: italic;
+}
